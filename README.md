@@ -7,5 +7,5 @@ ___
   * available 24*7
   * easy to book/modify/cancel reservations
   * can compare prices
-  * real time upto date
+  * real time up-to date
   * secure and user friendly
