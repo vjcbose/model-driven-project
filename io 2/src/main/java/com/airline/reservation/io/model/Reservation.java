@@ -14,10 +14,11 @@ public class Reservation {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 
-	private String orderNumber;
-	private int price;
+	private String invoiceNum;
+	private int SeatNumber;
 
 	@ManyToMany
 	private List<Flight> flights;
+
 
 }

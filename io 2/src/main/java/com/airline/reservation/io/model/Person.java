@@ -26,7 +26,8 @@ public class Person {
 	private String firstName;
 	private String lastName;
 	private String gender;
-	private int age;
+	private String dob;
+	private String email;
 	private String mobileNumber;
 	private String roles;
 	

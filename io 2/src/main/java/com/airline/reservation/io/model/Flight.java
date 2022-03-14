@@ -13,10 +13,12 @@ import lombok.Value;
 @Table
 
 public class Flight {
-	private String destination;
-	private String departure;
+	private String to;
+	private String from;
 	private String departTime;
 	private String arriveTime;
 	private int numOfSeats;
+	private int seatNum;
+	private String crewMember;
 	
 }
