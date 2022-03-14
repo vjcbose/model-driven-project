@@ -20,5 +20,5 @@ public class Flight {
 	private int numOfSeats;
 	private int seatNum;
 	private String crewMember;
-	
+		
 }
